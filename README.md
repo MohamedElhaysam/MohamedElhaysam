@@ -13,11 +13,11 @@
 
 ### 🧭 About Me
 
-I'm a Computer Science student focused on data engineering — building pipelines that turn raw data into clean, reliable systems.
-
-I hold a **Microsoft Data Engineer certificate** from the **Digital Egypt Pioneers Initiative (DEPI)**, where I trained across the full ETL lifecycle, from raw ingestion to business-ready reporting. I also completed **CIB Egypt's Generative AI Summer Internship**, exploring applied GenAI in a regulated banking environment.
-
-I'm currently deepening my skills across the full data engineering stack, one project at a time.
+I'm a Computer Science student at Assiut University, building a career in data engineering. My focus is clear: designing pipelines that turn raw, unreliable data into clean, trustworthy systems businesses can depend on.
+ 
+I hold a Microsoft Data Engineer certificate from the Digital Egypt Pioneers Initiative (DEPI), where I trained on the full ETL lifecycle — from data ingestion to business-ready reporting, using layered Bronze/Silver/Gold architecture in SQL Server. For my graduation project, I built the Python simulation layer for a real-time traffic analytics pipeline on Azure. I also completed CIB Egypt's Generative AI internship, studying how AI is applied responsibly within a regulated banking environment.
+ 
+I'm committed to mastering data engineering end-to-end: pipeline design, cloud platforms, and data modeling. Every project and certification is a deliberate step toward that goal.
 
 ---
 
