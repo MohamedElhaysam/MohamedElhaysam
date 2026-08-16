@@ -22,7 +22,7 @@
 - 🏗️ Focused on **data engineering** — ETL pipelines, cloud data infrastructure, and data warehousing
 - 📜 **Microsoft Certified: Data Engineer** — Digital Egypt Pioneers Initiative (DEPI)
 - 🤖 Completed a **Generative AI internship at CIB Egypt**, delivered with the CFA Institute, IFC (World Bank Group), and Frankfurt School of Finance & Management
-- 🌱 Currently deepening: **dbt · Power BI/DAX · Advanced SQL Server**
+- 🌱 Still early in my data engineering journey — deepening the fundamentals
 - 💼 **Open to data engineering internships and entry-level roles**
 
 <br/>
