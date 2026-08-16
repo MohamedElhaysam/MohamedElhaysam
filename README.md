@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=MohamedElhaysam&label=Profile%20Views&color=1F3864&style=flat" />
-
 </div>
 
 <br/>
@@ -76,29 +74,19 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+**[🚦 Real-Time Traffic Analytics System](https://github.com/MohamedElhaysam/Depi-Project)**
+End-to-end streaming pipeline for live traffic data. DEPI graduation capstone (team project) — I built the Python data-simulation layer feeding Azure Event Hubs → Stream Analytics → Power BI.
+`Python` `Azure Event Hubs` `Azure Stream Analytics` `Azure SQL` `Power BI`
 
-<a href="https://github.com/MohamedElhaysam/Depi-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElhaysam&repo=Depi-Project&theme=default&hide_border=true&title_color=1F3864&text_color=333333" />
-</a>
-<a href="https://github.com/MohamedElhaysam/DataWarehouse-CRM-ETL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohamedElhaysam&repo=DataWarehouse-CRM-ETL&theme=default&hide_border=true&title_color=1F3864&text_color=333333" />
-</a>
-
-</div>
-
-**[Real-Time Traffic Analytics System](https://github.com/MohamedElhaysam/Depi-Project)** — End-to-end streaming pipeline for live traffic data. DEPI graduation capstone (team project) — I built the Python data-simulation layer feeding Azure Event Hubs → Stream Analytics → Power BI.
-
-**[Multi-Layer Data Warehouse ETL Pipeline](https://github.com/MohamedElhaysam/DataWarehouse-CRM-ETL)** — Full ETL pipeline in SQL Server using Bronze → Silver → Gold medallion architecture, transforming raw CRM/ERP data into business-ready data marts.
+**[🏗️ Multi-Layer Data Warehouse ETL Pipeline](https://github.com/MohamedElhaysam/DataWarehouse-CRM-ETL)**
+Full ETL pipeline in SQL Server using Bronze → Silver → Gold medallion architecture, transforming raw CRM/ERP data into business-ready data marts.
+`SQL Server` `T-SQL` `ETL` `Data Modeling` `Data Warehousing`
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohamedElhaysam&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=0078D4&text_color=333333" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElhaysam&layout=compact&theme=default&hide_border=true&title_color=1F3864&text_color=333333" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedElhaysam&theme=default&hide_border=true&background=FFFFFF&ring=0078D4&fire=1F3864&currStreakLabel=1F3864" />
 
